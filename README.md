@@ -48,9 +48,9 @@ Hospitals lack visibility into patient flow, billing trends, and resource alloca
 
 ![Hospital Overview](dashboards/Screenshots/page1_overview.png)
 
-![Financial Analysis](dashboard/screenshots/page2_financial.png)
+![Financial Analysis](dashboards/Screenshots/page2_financial.png)
 
-![Clinical Insights](dashboard/screenshots/page3_clinical.png)
+![Clinical Insights](dashboards/Screenshots/page3_clinical.png)
 
 ## Recommendations
 1. Audit 108 billing anomalies immediately
