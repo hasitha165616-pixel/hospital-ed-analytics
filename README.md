@@ -46,7 +46,7 @@ Hospitals lack visibility into patient flow, billing trends, and resource alloca
 
 ## Dashboard Preview
 
-![Hospital Overview](dashboard/screenshots/page1_overview.png)
+![Hospital Overview](dashboards/Screenshots/page1_overview.png)
 
 ![Financial Analysis](dashboard/screenshots/page2_financial.png)
 
